@@ -1,7 +1,7 @@
 # Boston University
-This is a workd shop at BUSM
+This is a work shop at BUSM
 # computational-project-cookie-cutter
-
+I made a change!
 [![DOI](https://zenodo.org/badge/11594/chendaniely/computational-project-cookie-cutter.svg)](#DOI)
 
 A cookie cutter (aka project template) to set up a folder structure for a computational project.
