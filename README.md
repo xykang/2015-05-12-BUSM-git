@@ -61,3 +61,4 @@ and you can use it as such: `pinit /path/to/folder` or if you are already in the
 I'm not the only one creating similar cookie-cutter projects:
  - https://github.com/Reproducible-Science-Curriculum/rr-init
 # New-repository
+# New-repository
