@@ -62,3 +62,4 @@ I'm not the only one creating similar cookie-cutter projects:
  - https://github.com/Reproducible-Science-Curriculum/rr-init
 # New-repository
 # New-repository
+# New-repository
