@@ -1,4 +1,5 @@
-#Boston University
+# Boston University
+This is a workd shop at BUSM
 # computational-project-cookie-cutter
 
 [![DOI](https://zenodo.org/badge/11594/chendaniely/computational-project-cookie-cutter.svg)](#DOI)
